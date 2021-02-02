@@ -81,9 +81,8 @@ $you_missed_enable = esc_attr(get_theme_mod('you_missed_enable','true'));
                                <?php the_custom_logo(); 
                                if (display_header_text()) : ?>
                               <div class="site-branding-text">
-                              <h1 class="site-title"> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php echo esc_html(get_bloginfo( 'name' )); ?></a></h1>
-                              <p class="site-description"><?php echo esc_html(get_bloginfo( 'description' )); ?></p>
-                              </div>
+                              
+                              
                               <?php endif; ?>
                             </div>
 
@@ -154,40 +153,7 @@ $you_missed_enable = esc_attr(get_theme_mod('you_missed_enable','true'));
                 </div>
                 <!--End mg-footer-widget-area-->
 
-                <div class="mg-footer-copyright">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-md-6 text-xs">
-                                <p>
-                                <a href="<?php echo esc_url( __( 'https://wordpress.org/', 'newsup' ) ); ?>">
-								<?php
-								/* translators: placeholder replaced with string */
-								printf( esc_html__( 'Proudly powered by %s', 'newsup' ), 'WordPress' );
-								?>
-								</a>
-								<span class="sep"> | </span>
-								<?php
-								/* translators: placeholder replaced with string */
-								printf( esc_html__( 'Theme: %1$s by %2$s.', 'newsup' ), 'Newsup', '<a href="' . esc_url( __( 'https://themeansar.com/', 'newsup' ) ) . '" rel="designer">Themeansar</a>' );
-								?>
-								</p>
-                            </div>
-
-
-
-                            <div class="col-md-6 text-right text-xs">
-                                <?php wp_nav_menu( array(
-        								'theme_location' => 'footer',
-        								'container'  => 'nav-collapse collapse navbar-inverse-collapse',
-        								'menu_class' => 'info-right',
-        								'fallback_cb' => 'newsup_fallback_page_menu',
-        								'walker' => new newsup_nav_walker()
-        							) ); 
-        						?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
             <!--/overlay-->
         </footer>

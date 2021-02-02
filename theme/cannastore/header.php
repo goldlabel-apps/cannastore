@@ -28,7 +28,8 @@
             <?php do_action('newsup_action_header_section');  ?>
             <div class="clearfix"></div>
             
-            <!-- Insert React -->
+            <!-- Insert Cannastore.app -->
+            <?php require (get_template_directory() . '/cannastore-plugin.php');  ?>
 
     <div class="mg-menu-full">
       <nav class="navbar navbar-expand-lg navbar-wp">

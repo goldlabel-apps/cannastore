@@ -2227,10 +2227,10 @@ footer .mg-footer-bottom-area {
 	padding-bottom: 30px;
 }
 footer .mg-footer-bottom-area .divide-line {
-	margin-bottom: 40px;
+	/*margin-bottom: 40px;*/
 	height: 2px;
 	width: 100%;
-	background: #1a182e;
+	/*background: #1a182e;*/
 }
 footer .mg-footer-bottom-area .custom-logo {
 	width: 160px;
