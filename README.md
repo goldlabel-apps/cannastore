@@ -4,6 +4,11 @@
 
 Theme & Plugin for WordPress by Listingslab. Public, Open Source repository for the Listingslab WordPress Plugin. Always FREE, Always Open Source, use the Listingslab software to open up a world of good to your tired old WordPress site
 
+#### Download
+
+- [Latest plugin ZIP](https://github.com/listingslab-software/cannastore/raw/develop/plugin/cannastore.zip)
+- [Latest theme ZIP](https://github.com/listingslab-software/cannastore/raw/develop/theme/newsup-canna.zip)
+
 #### Localhost Symlink Install
 
 Running the unix command `ln` creates a symlink. The idea here is to clone this repo to the same machine as your wordpress install and then symlink the folders to your wp-content directory in order to 
