@@ -16,7 +16,7 @@ Running the unix command `ln` creates a symlink. The idea here is to clone this 
 ```bash
 
 # SymLinks the theme
-ln -s ~/Desktop/Node/cannastore/theme/newsup-canna ~/Desktop/LAMP/wordpress-5.6/wp-content/themes/
+ln -s ~/Desktop/Node/cannastore/theme/cannastore ~/Desktop/LAMP/wordpress-5.6/wp-content/themes/
 
 # SymLinks the plugin
 ln -s ~/Desktop/Node/cannastore/plugin/cannastore ~/Desktop/LAMP/wordpress-5.6/wp-content/plugins/

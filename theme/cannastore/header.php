@@ -27,37 +27,9 @@
 
             <?php do_action('newsup_action_header_section');  ?>
             <div class="clearfix"></div>
-            <?php $background_image = get_theme_support( 'custom-header', 'default-image' );
-            if ( has_header_image() ) {
-              $background_image = get_header_image();
-            } ?>
-            <div class="mg-nav-widget-area-back" style='background-image: url("<?php echo esc_url( $background_image ); ?>" );'>
-            <?php $remove_header_image_overlay = get_theme_mod('remove_header_image_overlay',false); ?>
-            <div class="overlay">
-              <div class="inner" <?php if($remove_header_image_overlay == false) { 
-            $newsup_header_overlay_color = get_theme_mod('newsup_header_overlay_color','rgba(32,47,91,0.4)');?> style="background-color:<?php echo esc_attr($newsup_header_overlay_color);?>;" <?php } ?>> 
-                <div class="container-fluid">
-                    <div class="mg-nav-widget-area">
-                        <div class="row align-items-center">
-                            <div class="col-md-3 col-sm-4 text-center-xs">
-                                <div class="navbar-header">
-                                <?php the_custom_logo(); 
-                                if (display_header_text()) : ?>
-                                <div class="site-branding-text">
-                                <h1 class="site-title"> <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php echo esc_html(get_bloginfo( 'name' )); ?></a></h1>
-                                <p class="site-description"><?php echo esc_html(get_bloginfo( 'description' )); ?></p>
-                                </div>
-                              <?php endif; ?>
-                                </div>
-                            </div>
-                           <?php do_action('newsup_action_banner_advertisement'); ?>
+            
+            <!-- Insert React -->
 
-                        </div>
-                    </div>
-                </div>
-              </div>
-              </div>
-          </div>
     <div class="mg-menu-full">
       <nav class="navbar navbar-expand-lg navbar-wp">
         <div class="container-fluid flex-row-reverse">
