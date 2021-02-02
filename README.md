@@ -22,5 +22,3 @@ ln -s ~/Desktop/Node/cannastore/plugin/cannastore ~/Desktop/LAMP/wordpress-5.6/w
 
 - Bug? Feature Request? Enquiry? 
 [Create New Issue](https://github.com/listingslab-software/cannastore/issues/new/choose)
-
-ln -s ~/Desktop/Node/cannastore/theme/newsup-canna ~/Desktop//Users/listingslab/Desktop/LAMP/wordpress-5.6/wp-content/themes/
