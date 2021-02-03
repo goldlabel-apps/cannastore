@@ -1,7 +1,10 @@
-<?php define( 'NEWSUP_THEME_DIR', get_template_directory() . '/' );
+<?php 
+
+	require( get_template_directory() . '/cannastore/cannastore-wp-admin.php' );
+
+	define( 'NEWSUP_THEME_DIR', get_template_directory() . '/' );
 	define( 'NEWSUP_THEME_URI', get_template_directory_uri() . '/' );
 	define( 'NEWS_THEME_SETTINGS', 'newsup-settings' );
-	
 	
 	$newsup_theme_path = get_template_directory() . '/inc/ansar/';
 
