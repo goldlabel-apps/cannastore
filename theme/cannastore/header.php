@@ -18,7 +18,7 @@
 <meta name="application-name" content="Cannastore.app" />
 <link rel="apple-touch-icon" href="https://cannastore.app/wp-content/uploads/2021/02/apple-touch-icon-180x180-1.png" />
 
-<link rel="manifest" href="/manifest.json" />
+<!-- <link rel="manifest" href="/manifest.json" /> -->
 
 <meta name="mobile-web-app-capable" content="yes" />
 <meta property="al:android:app_name" content="Cannastore.app" />
