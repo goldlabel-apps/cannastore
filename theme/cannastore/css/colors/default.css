@@ -1,6 +1,6 @@
-222a5c/*==================== Top Bar color ====================*/
+/*==================== Top Bar color ====================*/
 .mg-head-detail .info-left li span.time {
-	background: #60a125;
+	background: #255150;
 	color: #fff;
 }
 .mg-headwidget .mg-head-detail {
@@ -10,7 +10,7 @@
 	color: #fff;
 }
 .mg-headwidget .mg-head-detail .info-right li a:hover, .mg-headwidget .mg-head-detail .info-right li a:focus {
-	color: #60a125;
+	color: #255150;
 }
 .mg-headwidget .mg-head-detail li a i {
 	color: #fff;
@@ -32,7 +32,7 @@
     background: rgba(0, 0, 0, 0.7);
 }
 .mg-headwidget.center .navbar-wp {
-    background: #60a125;
+    background: #255150;
 }
 /*=== navbar Header colors ===*/
 .mg-headwidget .navbar-wp {
@@ -45,14 +45,14 @@
     color: #999;
 }
 .header-widget .mg-header-box .mg-social span.icon-soci:hover a, .header-widget .mg-header-box .mg-social span.icon-soci:focus a {
-    color: #60a125;
+    color: #255150;
 }
 .mg-headwidget .navbar-wp .navbar-nav > li> a {
 	color: rgba(255,255,255,0.71);
 }
 .mg-headwidget .navbar-wp .navbar-nav > li > a:hover, .mg-headwidget .navbar-wp .navbar-nav > li > a:focus, .mg-headwidget .navbar-wp .navbar-nav > .active > a, .mg-headwidget .navbar-wp .navbar-nav > .active > a:hover, .mg-headwidget .navbar-wp .navbar-nav > .active > a:focus {
 	color: #fff;
-	background: #60a125;
+	background: #255150;
 }
 .mg-headwidget .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
@@ -74,10 +74,10 @@
 	background: #fff;
 }
 
-.post-edit-link :hover{ color:#60a125; }
+.post-edit-link :hover{ color:#255150; }
 /*==================== Theme Menu ====================*/
 /**Category Color **/
-a.newsup-categories.category-color-1{background: #60a125;}
+a.newsup-categories.category-color-1{background: #255150;}
 a.newsup-categories.category-color-2{background: #feb236;}
 a.newsup-categories.category-color-3{background: #622569;}
 a.newsup-categories.category-color-4{background: #82b74b;}
@@ -90,18 +90,18 @@ a.newsup-categories.category-color-4{background: #82b74b;}
 	color: #fff;
 }
 .navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus {
-	background: #60a125;
+	background: #255150;
 	color: #fff;
 }
 .navbar-wp .dropdown-menu > li > a:hover, .navbar-wp .dropdown-menu > li > a:focus {
-	background: #60a125;
+	background: #255150;
 }
 .navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
 	color: #ccc;
 }
 .mg-search-box .btn {
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 	color: #fff;
 }
 .mg-search-box a {
@@ -111,7 +111,7 @@ a.newsup-categories.category-color-4{background: #82b74b;}
 	color: rgba(255,255,255,0.71);
 }
 .mobilehomebtn {
-    background: #60a125;
+    background: #255150;
     color: #fff;
 }
 
@@ -148,11 +148,11 @@ input:not([type]), input[type="email"], input[type="number"], input[type="passwo
 	border-color: #eef3fb;
 }	
 .form-control:hover, textarea:hover, input:not([type]):hover, input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="tel"]:hover, input[type="url"]:hover, input[type="text"]:hover, input:not([type]):focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="text"]:focus {
-	border-color: #60a125;
+	border-color: #255150;
 }
 input[type="submit"], input[type="reset"],  button {
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 	color: #fff;
 }
 input[type="submit"]:hover, input[type="reset"]:hover, button:hover,input[type="submit"]:focus, input[type="reset"]:focus, button:focus {
@@ -161,34 +161,34 @@ input[type="submit"]:hover, input[type="reset"]:hover, button:hover,input[type="
 	color: #fff;
 }
 a {
-	color: #60a125;
+	color: #255150;
 }
 a:hover, a:focus {
 	color: #002954;
 }
 blockquote{
 	background: #f5f5f5;
-	border-color: #60a125;
+	border-color: #255150;
 }
 blockquote::before {
-	color: #60a125;
+	color: #255150;
 }
 .mg-search-modal .mg-search .btn {
-	background: #60a125;
+	background: #255150;
 	color: #fff;
 }
 .mg-search-modal .mg-search .btn:hover {
 	background: #002954;
 }
 .mg-error-404 h1 i {
-	color: #60a125;
+	color: #255150;
 }
 .grey-bg {
 	background: #f4f7fc;
 }
 .owl-carousel .owl-controls .owl-buttons div:hover {
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 	color: #fff;
 }
 .owl-carousel .owl-controls .owl-buttons div:hover i {
@@ -198,7 +198,7 @@ blockquote::before {
 	border-color: #fff;
 }
 .owl-carousel .owl-controls .owl-page.active span {
-	border-color: #60a125;
+	border-color: #255150;
 }
 .mg-social li a, .mg-social li span.icon-soci a {
 	color: #fff !important;
@@ -211,28 +211,28 @@ blockquote::before {
     color: #383b42;
 }
 .mg-tpt-txnlst ul li a {
-    color: #60a125;
+    color: #255150;
     background: #f3eeee;
 }
 .mg-tpt-txnlst ul li a:hover, .mg-tpt-txnlst ul li a:focus {
     color: #fff;
-    background: #60a125;
+    background: #255150;
 }
 .mg-latest-news .bn_title span{
-  border-left-color: #60a125;
-  border-color: transparent transparent transparent #60a125; 
+  border-left-color: #255150;
+  border-color: transparent transparent transparent #255150; 
 }
 .mg-latest-news .bn_title {
-  background-color: #60a125;
+  background-color: #255150;
 }
 .mg-latest-news .mg-latest-news-slider a{
   color: #222;
 }
 .mg-latest-news .mg-latest-news-slider a::before {
-    color: #60a125;
+    color: #255150;
 }
 .mg-latest-news .mg-latest-news-slider a span{
-  color: #60a125;
+  color: #255150;
 }
 .top-right-area .nav-tabs > li > a {
     border-color: #eee;
@@ -243,13 +243,13 @@ blockquote::before {
     color: #212121;
     background-color: #fff;
     border-color: #eee;
-    border-bottom-color: #60a125;
+    border-bottom-color: #255150;
 }
 .title_small_post h5 a {
 	color: #212121;
 }	
 .title_small_post h5 a:hover {
-	color: #60a125;
+	color: #255150;
 }	
 .mg-featu#255150-slider{
   background-color: #FFF;
@@ -261,21 +261,21 @@ blockquote::before {
 	color: #fff;
 }
 .mg-sec-title {
-  border-color: #60a125;
+  border-color: #255150;
 }
 .mg-sec-title h4{
-    background-color: #60a125;
+    background-color: #255150;
     color: #fff;
 }
 .mg-sec-title  h4::before {
-    border-left-color: #60a125;
-    border-color: transparent transparent transparent #60a125;
+    border-left-color: #255150;
+    border-color: transparent transparent transparent #255150;
 }
 .mg-viewmr-btn{
-  color: #60a125;
+  color: #255150;
 }
 .mg-posts-sec .small-post-content h5 a:hover, .featu#255150_cat_slider a:hover{
-  color: #60a125;
+  color: #255150;
 }
 .mg-posts-sec-inner .small-list-post li{
   background: #fff;
@@ -293,7 +293,7 @@ blockquote::before {
     color:#fff;
 }
 .mg-post-box .title a:hover { 
-    color:#60a125;
+    color:#255150;
 }
 .mg-post-box .latest-meta { 
     color: #fff;
@@ -309,7 +309,7 @@ blockquote::before {
   color: #fff;
 }
 .mg-post-bottom .mg-share-icons .mg-share span a:hover{
-  background-color:#60a125;
+  background-color:#255150;
   color: #fff;
 }
 .mg-post-bottom .mg-share-icons .mg-share-toggle{
@@ -319,7 +319,7 @@ blockquote::before {
   color: #fff;
 }
 .mg-post-bottom .mg-share-icons .mg-share-toggle:hover{
-  background-color:#60a125;
+  background-color:#255150;
   color: #fff;
 }
 .mg-subscriber .overlay {
@@ -336,7 +336,7 @@ blockquote::before {
 	color: #fff;
 }
 .mg-blog-post .bottom h4:hover, .mg-blog-post .bottom h4 a:hover, .mg-posts-modul-6 .mg-sec-top-post .title a:hover, .mg-blog-inner h4 a:hover {
-	color: #60a125;
+	color: #255150;
 }
 .mg-blog-post-box .small {
 	color: #222;
@@ -345,11 +345,11 @@ blockquote::before {
 	color: #212121;
 }
 .mg-blog-post-box h4.title:hover, .mg-blog-post-box h4.title a:hover, .mg-blog-post-box h4.title:focus, .mg-blog-post-box h4.title a:focus {
-	color: #60a125;
+	color: #255150;
 }
 .mg-blog-category a{
     color: #fff;
-    background: #60a125;
+    background: #255150;
 }
 .mg-blog-category a:hover {
     color: #fff;
@@ -361,7 +361,7 @@ blockquote::before {
 	color: #333;
 }
 .mg-blog-meta a:hover {
-	color: #60a125;
+	color: #255150;
 }
 .mg-blog-meta i {
 	color: #333;
@@ -373,28 +373,28 @@ blockquote::before {
 	color: #fff;
 }
 .mg-blog-post.lg .mg-blog-meta a:hover , .mg-blog-post.lg .mg-blog-meta a:focus {
-	color: #60a125;
+	color: #255150;
 }
 .post-form {
     color: #fff;
-    background: #60a125;
+    background: #255150;
 }
 .mg-comments h4 {
 	color: #212121;
 }
 .comments-area .comment-meta .comment-author img {
-	border-color: #60a125;
+	border-color: #255150;
 }
 .comment-body .reply a {
     color: #fff;
-    background: #60a125;
+    background: #255150;
 }
 .comment-body .reply a:hover, .comment-body .reply a:focus {
     color: #fff;
     background: #255150;
 }
 .comment-metadata .edit-link:before {
-    color: #60a125;
+    color: #255150;
 }
 .mg-blog-author {
 	background: #e8e8e8;
@@ -447,15 +447,15 @@ blockquote::before {
 	border-color: #eee;
 }
 .mg-wid-title {
-	border-color: #60a125;
+	border-color: #255150;
 }
 .mg-sidebar .mg-widget h6 {
-	background: #60a125;
+	background: #255150;
 	color: #fff;
 }
 .mg-sidebar .mg-widget h6::before {
-	border-left-color: #60a125;
-    border-color: transparent transparent transparent #60a125;
+	border-left-color: #255150;
+    border-color: transparent transparent transparent #255150;
 }
 .mg-sidebar .mg-widget ul li {
 	border-color: #eee;
@@ -464,7 +464,7 @@ blockquote::before {
 	color: #222;
 }
 .mg-sidebar .mg-widget ul li a:hover, .mg-sidebar .mg-widget ul li a:focus {
-	color: #60a125;
+	color: #255150;
 }
 .mg-sidebar .mg-widget ul li .mg-blog-category a, .mg-sidebar .mg-widget ul li .mg-blog-category a:hover {
     color: #fff;
@@ -473,11 +473,11 @@ blockquote::before {
 	color: #212121;
 }
 .mg-sidebar .mg-widget .mg-blog-post h3 a:hover {
-	color: #60a125;
+	color: #255150;
 }
 .mg-sidebar .mg-widget.widget_search .btn {
 	color: #fff;
-	background: #60a125;
+	background: #255150;
 }
 .mg-sidebar .mg-widget.widget_search .btn:hover, .mg-sidebar .mg-widget.widget_search .btn:focus {
 	background: #002954;
@@ -487,22 +487,22 @@ blockquote::before {
 }
 .mg-sidebar .mg-widget .mg-widget-tags a, .mg-sidebar .mg-widget .tagcloud a {
 	background: #f3eeee;
-	color: #60a125;
+	color: #255150;
 	border-color: #f3eeee;
 }
 .mg-sidebar .mg-widget .mg-widget-tags a:hover, .mg-sidebar .mg-widget .tagcloud a:hover, .mg-sidebar .mg-widget .mg-widget-tags a:focus, .mg-sidebar .mg-widget .tagcloud a:focus {
 	color: #fff;
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 }
 .mg-sidebar .mg-widget .mg-social li span.icon-soci {
-	color: #60a125;
-	border-color: #60a125;
+	color: #255150;
+	border-color: #255150;
 }
 .mg-sidebar .mg-widget .mg-social li span.icon-soci:hover {
 	color: #fff;
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 }
 .mg-sidebar .mg-widget .mg-social li span.icon-soci:hover i {
 	color: #fff;
@@ -513,14 +513,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .btn {
-	background: #60a125;
+	background: #255150;
 	color: #fff;
 
 }
 .btn-theme, .more_btn, .more-link {
-	background: #60a125;
+	background: #255150;
 	color: #fff;
-	border-color: #60a125;
+	border-color: #255150;
 }
 .btn-theme:hover, .btn-theme:focus, .more_btn:hover, .more_btn:focus, .more-link:hover, .more-link:focus {
 	color: #fff;
@@ -536,23 +536,23 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 	color: #999;
 }
 .single-nav-links a.current, .single-nav-links span.current, .single-nav-links a:hover, .single-nav-links span:hover{
-	background: #60a125;
+	background: #255150;
 	color: #fff;
 }
 .nav-next a, .nav-previous a {
 	color: #000;
 }
 .nav-next a:hover, .nav-next a:focus, .nav-previous a:hover, .nav-previous a:focus {
-	color: #60a125;
+	color: #255150;
 }
 .navigation.pagination .nav-links .page-numbers:hover, .navigation.pagination .nav-links .page-numbers:focus, .navigation.pagination .nav-links .page-numbers.current, .navigation.pagination .nav-links .page-numbers.current:hover,  .navigation.pagination .nav-links .page-numbers.current:focus {
-	border-color: #60a125;
-	background: #60a125;
+	border-color: #255150;
+	background: #255150;
 	color: #fff;
 }
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-    border-color: #60a125;
-	background: #60a125;
+    border-color: #255150;
+	background: #255150;
 	color: #fff;
 }
 /*==================== typo ====================*/
@@ -563,7 +563,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 	color: #222;
 }
 .mg-page-breadcrumb > li a:hover, .mg-page-breadcrumb > li a:focus {
-	color: #60a125;
+	color: #255150;
 }
 .mg-page-breadcrumb > li + li:before {
 	color: #222;
@@ -571,14 +571,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 /*==================== blog ====================*/
 .mg-comments .mg-reply:hover, .mg-comments .mg-reply:focus {
 	color: #fff;
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 }
 .mg-heading-bor-bt h5 {
 	color: #212121;
 }
 
-#wp-calendar tbody td#today{color: #60a125; }
+#wp-calendar tbody td#today{color: #255150; }
 /*==================== footer background ====================*/
 footer .overlay {
 	background: #255150;
@@ -594,7 +594,7 @@ footer .mg-widget ul li a {
 	color: #fff;
 }
 footer .mg-widget ul li a:hover, footer .mg-widget ul li a:focus {
-	color: #60a125;
+	color: #255150;
 }
 footer .mg-widget .calendar_wrap table thead th,footer .mg-widget .calendar_wrap table tbody td,footer .mg-widget .calendar_wrap table caption {
 	border-color: #777;
@@ -661,8 +661,8 @@ footer .mg-widget p {
 }
 footer .mg-widget.widget_search .btn {
 	color: #fff;
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 }
 footer .mg-widget.widget_search .btn:hover, footer .mg-widget.widget_search .btn:focus {
 	background: #002954;
@@ -670,21 +670,21 @@ footer .mg-widget.widget_search .btn:hover, footer .mg-widget.widget_search .btn
 }
 footer .mg-widget .mg-widget-tags a, footer .mg-widget .tagcloud a {
 	background: #fff;
-    color: #60a125;
+    color: #255150;
     border-color: #fff;
 }
 footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, footer .mg-widget .mg-widget-tags a:focus, footer .mg-widget .tagcloud a:focus {
 	color: #fff;
-	background: #60a125;
-	border-color: #60a125;
+	background: #255150;
+	border-color: #255150;
 }
 .ta_upscr {
-	background: #60a125;
-	border-color: #60a125;
-	color: #fff !important;
+	background: #8AFF20;
+	border-color: #255150;
+	color: #255150 !important;
 }
 .ta_upscr:hover, .ta_upscr:focus {
-	color: #fff;
+	color: #255150;
 }
 /*form-control*/
 .form-group label {
@@ -694,13 +694,13 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 	border-color: #eef3fb;
 }
 .form-control:focus {
-	border-color: #60a125;
+	border-color: #255150;
 }
 .form-group label::before {
     background-color: #dddddd;
 }
 .form-group label::after {
-	background-color: #60a125;
+	background-color: #255150;
 }
 .woocommerce-page .products h3 {
 	color: #333;
@@ -729,7 +729,7 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 }
 /*-theme-background-*/ 
 .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
-	background: #60a125;
+	background: #255150;
 }
 .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span {
 	background: #ebe9eb;
@@ -737,11 +737,11 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 }
 /*-theme-color-*/ 
 .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page .products .added_to_cart, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
-	color: #60a125;
+	color: #255150;
 }
 /*-theme-border-color-*/ 
 .woocommerce-cart table.cart td.actions .coupon .input-text:hover, .woocommerce-cart table.cart td.actions .coupon .input-text:focus, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav .woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
-	border-color: #60a125;
+	border-color: #255150;
 }
 /*-theme-secondary-background-*/ 
 .woocommerce #review_form #respond .form-submit input:hover, .woocommerce-page .products a.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
@@ -757,7 +757,7 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 }
 
 .woocommerce .products span.onsale, .woocommerce span.onsale {
-	background: #60a125;
+	background: #255150;
 }
 
 .woocommerce-page .products a .price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price {
@@ -774,7 +774,7 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 	background: #2ac56c;
 }
 .woocommerce-page .woocommerce-message a {
-	background-color: #60a125;
+	background-color: #255150;
 }
 .woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus {
 	background-color: #388e3c;
@@ -796,10 +796,10 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 }
 /*woocommerce-Price-Slider*/ 
 .woocommerce .widget_price_filter .ui-slider .ui-slider-range {
-	background: #60a125;
+	background: #255150;
 }
 .woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
-	background: #60a125;
+	background: #255150;
 }
 .woocommerce-page .woocommerce-ordering select {
 	color: #A0A0A0;
@@ -819,6 +819,6 @@ footer .mg-widget .mg-widget-tags a:hover, footer .mg-widget .tagcloud a:hover, 
 
 div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form button[type=submit]:focus, div.wpforms-container-full .wpforms-form button[type=submit]:hover
 {
-    background-color: #60a125;
+    background-color: #255150;
     color: #fff;
 }

@@ -4,7 +4,7 @@
  *
  * This is the template that displays all of the <head> section and everything up until <div id="content">
  *
- * @package Newsup
+ * @package Cannastore
  */
 ?>
 <!DOCTYPE html>
@@ -12,6 +12,37 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="theme-color" content="#255150" />
+<meta name="apple-mobile-web-app-title" content="Cannastore.app" />
+<meta name="application-name" content="Cannastore.app" />
+<link rel="apple-touch-icon" href="https://cannastore.app/wp-content/uploads/2021/02/apple-touch-icon-180x180-1.png" />
+
+<link rel="manifest" href="/manifest.json" />
+
+<meta name="mobile-web-app-capable" content="yes" />
+<meta property="al:android:app_name" content="Cannastore.app" />
+<meta property="al:ios:app_name" content="Cannastore.app" />
+<meta property="al:windows:app_name" content="Cannastore.app" />
+
+<meta property="og:url" content="https://cannastore.app" />
+<meta property="og:site_name" content="Cannastore.app" />
+<meta property="og:title" content="Cannastore.app" />
+<meta property="og:description" content="The World's First Mobile Cannabis App" />
+<meta property="og:image" content="https://cannastore.app/wp-content/uploads/2021/02/open-graph.png" />
+<meta property="og:image:alt" content="Cannastore is the World's First Mobile Cannabis App" />
+<meta property="og:locale" content="en_pi" />
+<meta property="og:type" content="website" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="938" />
+<meta property="og:image:height" content="530" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Cannastore.app" />
+<meta name="twitter:description" content="The World's First Mobile Cannabis App" />
+<meta name="twitter:image" content="https://cannastore.app/wp-content/uploads/2021/02/twitter-card.png" />
+<meta name="twitter:image:alt" content="Cannastore is the World's First Mobile Cannabis App" />
+
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <?php wp_head(); ?>
 </head>
@@ -29,7 +60,7 @@
             <div class="clearfix"></div>
             
             <!-- Insert Cannastore.app -->
-            <?php require (get_template_directory() . '/cannastore-plugin.php');  ?>
+            <?php require (get_template_directory() . '/cannastore/cannastore-header.php');  ?>
 
     <div class="mg-menu-full">
       <nav class="navbar navbar-expand-lg navbar-wp">

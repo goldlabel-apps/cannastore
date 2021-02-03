@@ -11,6 +11,8 @@
 	wp_enqueue_style('font-awesome',get_template_directory_uri().'/css/font-awesome.css');
 
 	wp_enqueue_style('owl-carousel', get_template_directory_uri() . '/css/owl.carousel.css');
+
+	wp_enqueue_style('cannastore', get_template_directory_uri() . '/cannastore/cannastore.css');
 	
 	wp_enqueue_style('smartmenus',get_template_directory_uri().'/css/jquery.smartmenus.bootstrap.css');	
 

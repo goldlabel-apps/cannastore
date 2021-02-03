@@ -1,0 +1,28 @@
+html {
+	height: 100%;
+	--scrollbarBG: #255150;
+	--thumbBG: #8AFF20;
+}
+input:focus, textarea:focus, select:focus{ 
+	outline: none; 
+}
+body {
+	margin: 0; padding: 0; 
+	scrollbar-width: thin;
+	scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+}
+body::-webkit-scrollbar { width: 11px; }
+body::-webkit-scrollbar-track { 
+	background: var(--scrollbarBG); 
+}
+body::-webkit-scrollbar-thumb {
+	background-color: var(--thumbBG) ;
+	border-radius: 6px;
+	border: 3px solid var(--scrollbarBG);
+}
+.cannastore-header {
+	background: #57ac0b;
+	min-height: 225px;
+	color: white;
+	/*border: 10px solid red;*/
+}
