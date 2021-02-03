@@ -106,14 +106,7 @@
 </header>
 <div class="clearfix"></div>
 <?php  if (is_front_page() || is_home()) { ?>
-<section class="mg-tpt-tag-area">
-  <div class="container-fluid">
- <?php $show_popular_tags_title = newsup_get_option('show_popular_tags_title');
- $select_popular_tags_mode = newsup_get_option('select_popular_tags_mode');
- $number_of_popular_tags = newsup_get_option('number_of_popular_tags');
- newsup_list_popular_taxonomies($select_popular_tags_mode, $show_popular_tags_title, $number_of_popular_tags); ?>
-</div>
-</section>
+
  <?php }?>
  <?php do_action('newsup_action_banner_exclusive_posts'); 
  do_action('newsup_action_front_page_main_section_1'); ?>

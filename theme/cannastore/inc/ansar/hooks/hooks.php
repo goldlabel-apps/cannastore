@@ -25,7 +25,7 @@ if (!function_exists('newsup_banner_trending_posts')):
                 $show_trending = true;
                 $count = 1;
                 ?>
-                <div class="container-fluid">
+                
                     <div class="mg-latest-news">
                          <div class="bn_title">
                             <h2>
@@ -40,21 +40,20 @@ if (!function_exists('newsup_banner_trending_posts')):
                         <div class="mg-latest-news-slider marquee">
                         <?php } ?>
                             <?php
-                            if ($all_posts->have_posts()) :
-                                while ($all_posts->have_posts()) : $all_posts->the_post();
-                                    ?>
-                                    <a href="<?php the_permalink(); ?>">
-                                        <span><?php the_title(); ?></span>
-                                     </a>
-                                    <?php
-                                    $count++;
-                                endwhile;
-                                endif;
-                                wp_reset_postdata();
-                                ?>
+                                if ($all_posts->have_posts()) :
+                                    while ($all_posts->have_posts()) : $all_posts->the_post();
+                                        ?>
+                                        <a href="<?php the_permalink(); ?>">
+                                            <span><?php the_title(); ?></span>
+                                         </a>
+                                        <?php
+                                        $count++;
+                                    endwhile;
+                                    endif;
+                                    wp_reset_postdata();
+                            ?>
                         </div>
                     </div>
-            </div>
             </section>
             <!-- Excluive line END -->
         <?php endif;

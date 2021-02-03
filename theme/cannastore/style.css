@@ -746,7 +746,7 @@ button.mfp-close:hover, button.mfp-close:focus {
     padding: 5px 0px;
     margin: 0;
     font-size: 14px;
-    border-bottom: 1px solid #eee;
+    /*border-bottom: 1px solid #eee;*/
 }
 .mg-tpt-txnlst strong {
     margin-right: 10px;
