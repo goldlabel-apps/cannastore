@@ -6,8 +6,7 @@
 
 ### Download
 
-- [Latest plugin ZIP](https://github.com/listingslab-software/cannastore/raw/develop/plugin/cannastore.zip)
-- [Latest theme ZIP](https://github.com/listingslab-software/cannastore/raw/develop/theme/newsup-canna.zip)
+- [cannastore.zip](https://github.com/listingslab-software/cannastore/raw/develop/theme/cannastore.zip)
 
 ### Localhost Symlink Install
 
